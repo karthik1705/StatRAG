@@ -1,0 +1,14 @@
+torch
+numpy
+langchain
+langchain-openai
+pandas
+ipykernel
+langchain-community
+pypdf
+tiktoken
+transformers
+protobuf
+sentencepiece
+langchain-huggingface
+faiss-cpu
